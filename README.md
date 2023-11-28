@@ -1,1 +1,1 @@
-# Project-Flu-Shot-Learning-Predict-H1N1-imbalanced-Vaccines
+# Capstone_Project-Flu-Shot-Learning-Predict-H1N1-imbalanced-Vaccines
